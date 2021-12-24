@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Kamal Choudhary. I am a research scientist at the National Institute of Standards and Technology, Maryland, USA.
+
+My research interests are focused on atomistic materials design using classical, quantum, and machine learning methods. In particular, I have developed JARVIS database and tools (https://jarvis.nist.gov/) that hosts publicly available datasets for millions of material properties.
+
 ![](https://komarev.com/ghpvc/?username=knc6)
 <!--
 **knc6/knc6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
