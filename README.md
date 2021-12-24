@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-My name is Kamal Choudhary. I am a research scientist at the National Institute of Standards and Technology, Maryland, USA.
+My name is Kamal Choudhary. I am a research scientist at the National Institute of Standards and Technology, Maryland, USA. I received his PhD in Materials Science and Engineering from University of Florida in 2015.
 
 My research interests are focused on atomistic materials design using classical, quantum, and machine learning methods. In particular, I have developed JARVIS database and tools (https://jarvis.nist.gov/) that hosts publicly available datasets for millions of material properties.
 
 Here are some links that might interest you:
 
+- NIST page (https://www.nist.gov/people/kamal-choudhary)
 - Google Scholar (https://scholar.google.com/citations?user=klhV2BIAAAAJ&hl=en)
 - Twitter (https://twitter.com/dr_k_choudhary)
 - LinkedIn (https://www.linkedin.com/in/kamal-choudhary-21102818/)
