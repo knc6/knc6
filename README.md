@@ -18,6 +18,9 @@ Here are some links that might interest you:
 
 
 ![](https://komarev.com/ghpvc/?username=knc6)
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=knc6&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true" alt="knc6" /></p>
+
 <!--
 **knc6/knc6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
