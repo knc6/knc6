@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Kamal Choudhary. I am a researcher scientist (non-federal) at NIST, MD, USA contracted through Theiss research, La Jolla.
+My name is Kamal Choudhary. I am a researcher scientist at NIST, MD, USA contracted through Theiss research, La Jolla.
 My research interests are focused on atomistic materials design using classical, quantum, and machine learning methods. In particular, I have developed JARVIS database and tools (https://jarvis.nist.gov/) that hosts publicly available datasets for millions of material properties.
 I am the CEO and founder of a small business DeepMaterials LLC (https://www.deepmaterials.org/).
 I am an associate editor of the Journal Nature's NPJ Computational Materials and editorial board member of Materials Today Communications.
