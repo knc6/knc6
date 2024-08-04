@@ -24,6 +24,8 @@ My research interests are focused on atomistic materials design using classical,
 | [usnistgov/tb3py](https://github.com/usnistgov/tb3py) | TB3Py: Two- and three-body tight-binding calculations for materials | [:books:](https://github.com/usnistgov/tb3py/blob/master/README.md) | [:package:](https://anaconda.org/conda-forge/tb3py) | [:package:](https://pypi.org/project/tb3py/)|
 | [usnistgov/intermat](https://github.com/usnistgov/intermat) | InterMat: Interface materials design toolkit | [:books:](https://github.com/usnistgov/intermat/blob/main/README.md) | [:package:](https://anaconda.org/conda-forge/intermat) | [:package:](https://pypi.org/project/intermat/)|
 | [usnistgov/defectmat](https://github.com/usnistgov/defectmat) | DefectMat: Defect materials design toolkit | [:books:](https://github.com/usnistgov/defectmat/blob/main/README.md) | | |
+| [SciVedanta](https://github.com/SciVedanta/SciVedanta.github.io) | A collection of YouTube videos on Vedanta philosophy | [:books:](https://scivedanta.github.io/) | | |
+| [eesociety](https://github.com/eesociety/eesociety.github.io) | Encouraging Excellence Society | [:books:](https://github.com/eesociety/eesociety.github.io) | | |
 
 Here are some links that might interest you:
 
