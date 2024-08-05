@@ -2,7 +2,7 @@
 
 Kamal Choudhary is 
 - a staff scientist at National Institute of Standards and Technology (NIST), MD, USA.
-- an ssociate editor of the Journal Nature:NPJ Computational Materials (https://www.nature.com/npjcompumats/editors) and editorial board member of Materials Today Communications and Nature:Scientific Data.
+- an ssociate editor of the Journal Nature:NPJ Computational Materials (https://www.nature.com/npjcompumats/editors) and editorial board member of Nature:Scientific Data.
 - the CEO and founder of a small business DeepMaterials LLC (https://www.deepmaterials.org/)
   
 My research interests are focused on atomistic materials design using classical, quantum, and machine learning methods. In particular, I have developed JARVIS database and tools (https://jarvis.nist.gov/) that hosts publicly available datasets for millions of material properties.
