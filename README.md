@@ -2,8 +2,11 @@
 
 Kamal Choudhary is 
 - a staff scientist at National Institute of Standards and Technology (NIST), MD, USA.
-- an ssociate editor of the Journal Nature:NPJ Computational Materials (https://www.nature.com/npjcompumats/editors) and editorial board member of Nature:Scientific Data.
 - the CEO and founder of a small business DeepMaterials LLC (https://www.deepmaterials.org/)
+- affiliate professor at the George Mason University
+- adjunct professor at the [Johns Hopkins University](https://ep.jhu.edu/faculty/kamal-choudhary/)
+- associate editor of the Journal Nature:NPJ Computational Materials (https://www.nature.com/npjcompumats/editors) and editorial board member of Nature:Scientific Data.
+- editorial board member of Materials Today Communications, PRX Energy journals
   
 My research interests are focused on atomistic materials design using classical, quantum, and machine learning methods. In particular, I have developed JARVIS database and tools (https://jarvis.nist.gov/) that hosts publicly available datasets for millions of material properties.
 
@@ -26,6 +29,7 @@ My research interests are focused on atomistic materials design using classical,
 | [usnistgov/tb3py](https://github.com/usnistgov/tb3py) | TB3Py: Two- and three-body tight-binding calculations for materials | [:books:](https://github.com/usnistgov/tb3py/blob/master/README.md) | [:package:](https://anaconda.org/conda-forge/tb3py) | [:package:](https://pypi.org/project/tb3py/)|
 | [usnistgov/intermat](https://github.com/usnistgov/intermat) | InterMat: Interface materials design toolkit | [:books:](https://github.com/usnistgov/intermat/blob/main/README.md) | [:package:](https://anaconda.org/conda-forge/intermat) | [:package:](https://pypi.org/project/intermat/)|
 | [usnistgov/defectmat](https://github.com/usnistgov/defectmat) | DefectMat: Defect materials design toolkit | [:books:](https://github.com/usnistgov/defectmat/blob/main/README.md) | | |
+| [usnistgov/chipsff](https://github.com/usnistgov/chipsff) | Evaluation of universal machine learning force-fields | [:books:](https://github.com/usnistgov/chipsff/blob/main/README.md) | |[:package:](https://pypi.org/project/chipsff/) |
 | [SciVedanta](https://github.com/SciVedanta/SciVedanta.github.io) | A collection of YouTube videos on Vedanta philosophy | [:books:](https://scivedanta.github.io/) | | |
 | [eesociety](https://github.com/eesociety/eesociety.github.io) | Encouraging Excellence Society | [:books:](https://eesociety.github.io/) | | |
 
