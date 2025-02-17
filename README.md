@@ -16,6 +16,7 @@ My research interests are focused on atomistic materials design using classical,
 
 | Name | Description |Details | Conda Package | PyPi Package | 
 |------|-------------|:-------------:|:-------------:|:-------------:|
+| [chatgpt/material explorer](https://chatgpt.com/g/g-67420c4cc6f48191a8876b173c93d62a-material-explorer) | Material Science Assistant for materials data and simulations. | |  | |
 | [usnistgov/jarvis](https://github.com/usnistgov/jarvis) | JARVIS-Tools: An open-source software package for data-driven atomistic materials design | [:books:](https://pages.nist.gov/jarvis/) | [:package:](https://anaconda.org/conda-forge/jarvis-tools) | [:package:](https://pypi.org/project/jarvis-tools/)|
 | [usnistgov/alignn](https://github.com/usnistgov/alignn) | ALIGNN: Atomistic Line Graph Neural Network and force-field | [:books:](https://github.com/usnistgov/alignn/blob/main/README.md) | [:package:](https://anaconda.org/conda-forge/alignn) | [:package:](https://pypi.org/project/alignn/)|
 | [usnistgov/jarvis_leaderboard](https://github.com/usnistgov/jarvis_leaderboard) | JARVIS-Leaderboard: Explore State-of-the-Art Materials Design Methods and Reproducible Benchmarks | [:books:](https://pages.nist.gov/jarvis_leaderboard/guide/) | [:package:](https://anaconda.org/conda-forge/jarvis-leaderboard) | [:package:](https://pypi.org/project/jarvis-leaderboard/)|
