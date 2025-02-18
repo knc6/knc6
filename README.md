@@ -40,7 +40,7 @@ Here are some links that might interest you:
 - Google Scholar (https://scholar.google.com/citations?user=klhV2BIAAAAJ&hl=en)
 - Twitter (https://twitter.com/dr_k_choudhary)
 - LinkedIn (https://www.linkedin.com/in/kamal-choudhary-21102818/)
-- YouTube (https://www.youtube.com/channel/UClChK_t7kmVx_QMStQH_T9g)
+- YouTube (https://www.youtube.com/@dr_k_choudhary)
 - SlideShare (https://www.slideshare.net/KAMALCHOUDHARY4)
 - FigShare (https://figshare.com/authors/Kamal_Choudhary/4445539)
 - Orcid (https://orcid.org/0000-0001-9737-8074)
