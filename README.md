@@ -45,7 +45,6 @@ Here are some links that might interest you:
 - SlideShare (https://www.slideshare.net/KAMALCHOUDHARY4)
 - FigShare (https://figshare.com/authors/Kamal_Choudhary/4445539)
 - Orcid (https://orcid.org/0000-0001-9737-8074)
-- Instagram (https://www.instagram.com/spicykamal/)
 
 
 ![](https://komarev.com/ghpvc/?username=knc6)
