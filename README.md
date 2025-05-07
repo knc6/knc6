@@ -35,13 +35,28 @@ My research interests are focused on atomistic materials design using classical,
 | [SciVedanta](https://github.com/SciVedanta/SciVedanta.github.io) | A collection of YouTube videos on Vedanta philosophy | [:books:](https://scivedanta.github.io/) | | |
 | [eesociety](https://github.com/eesociety/eesociety.github.io) | Encouraging Excellence Society | [:books:](https://eesociety.github.io/) | | |
 
+
+## Google Scholar Pages:
+
+| Project / Author        | Google Scholar Page |
+|-------------------------|---------------------|
+| **Kamal Choudhary**     | [scholar](https://scholar.google.com/citations?user=klhV2BIAAAAJ&hl=en) |
+| **JARVIS**              | [scholar](https://scholar.google.com/citations?user=3w6ej94AAAAJ) |
+| **ALIGNN**              | [scholar](https://scholar.google.com/citations?user=9Q-tNnwAAAAJ) |
+| **SuperconDB**          | [scholar](https://scholar.google.com/citations?hl=en&user=WdEXzu4AAAAJ) |
+| **AtomGPT**             | [scholar](https://scholar.google.com/citations?user=YVP36YgAAAAJ) |
+| **DMS200**              | [scholar](https://scholar.google.com/citations?user=yMWlKyAAAAAJ) |
+| **DeepMaterials LLC**   | [scholar](https://scholar.google.com/citations?user=3nFUpxwAAAAJ&hl=en) |
+
+
 Here are some links that might interest you:
 
 - NIST page (https://www.nist.gov/people/kamal-choudhary)
 - Google Scholar (https://scholar.google.com/citations?user=klhV2BIAAAAJ&hl=en)
 - Twitter (https://twitter.com/dr_k_choudhary)
 - LinkedIn (https://www.linkedin.com/in/kamal-choudhary-21102818/)
-- YouTube (https://www.youtube.com/@dr_k_choudhary)
+- YouTube Channel Materials Scinece (https://www.youtube.com/@dr_k_choudhary)
+- Books2YouTube Channel (https://www.youtube.com/@books2youtube)
 - SlideShare (https://www.slideshare.net/KAMALCHOUDHARY4)
 - FigShare (https://figshare.com/authors/Kamal_Choudhary/4445539)
 - Orcid (https://orcid.org/0000-0001-9737-8074)
