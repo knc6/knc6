@@ -16,7 +16,7 @@ My research interests are focused on atomistic materials design using classical,
 
 | Name | Description |Details | Conda Package | PyPi Package | 
 |------|-------------|:-------------:|:-------------:|:-------------:|
-| [knc6/material explorer_examples](https://github.com/knc6/material_explorer_examples) | ChatGPT based Material Science Assistant for materials data and simulations. | |  | |
+| [AtomGPTLab/chatgpt_material_explorer](https://github.com/AtomGPTLab/chatgpt_material_explorer) | ChatGPT based Material Science Assistant for materials data and simulations. | [:books:](https://github.com/AtomGPTLab/chatgpt_material_explorer/blob/main/README.md)|   | |
 | [usnistgov/jarvis](https://github.com/usnistgov/jarvis) | JARVIS-Tools: An open-source software package for data-driven atomistic materials design | [:books:](https://pages.nist.gov/jarvis/) | [:package:](https://anaconda.org/conda-forge/jarvis-tools) | [:package:](https://pypi.org/project/jarvis-tools/)|
 | [usnistgov/alignn](https://github.com/usnistgov/alignn) | ALIGNN: Atomistic Line Graph Neural Network and force-field | [:books:](https://github.com/usnistgov/alignn/blob/main/README.md) | [:package:](https://anaconda.org/conda-forge/alignn) | [:package:](https://pypi.org/project/alignn/)|
 | [usnistgov/jarvis_leaderboard](https://github.com/usnistgov/jarvis_leaderboard) | JARVIS-Leaderboard: Explore State-of-the-Art Materials Design Methods and Reproducible Benchmarks | [:books:](https://pages.nist.gov/jarvis_leaderboard/guide/) | [:package:](https://anaconda.org/conda-forge/jarvis-leaderboard) | [:package:](https://pypi.org/project/jarvis-leaderboard/)|
@@ -32,6 +32,7 @@ My research interests are focused on atomistic materials design using classical,
 | [usnistgov/defectmat](https://github.com/usnistgov/defectmat) | DefectMat: Defect materials design toolkit | [:books:](https://github.com/usnistgov/defectmat/blob/main/README.md) | | |
 | [usnistgov/chipsff](https://github.com/usnistgov/chipsff) | Evaluation of universal machine learning force-fields | [:books:](https://github.com/usnistgov/chipsff/blob/main/README.md) | |[:package:](https://pypi.org/project/chipsff/) |
 | [usnistgov/benchqc](https://github.com/usnistgov/benchqc) | A Benchmarking Toolkit for Quantum Computation | [:books:](https://github.com/usnistgov/benchqc/blob/main/README.md) | ||
+| [usnistgov/catalysismat](https://github.com/usnistgov/catalysismat) | Examining Generalizability of AI Models for Catalysis | [:books:](https://github.com/usnistgov/catalysismat/blob/main/README.md) | ||
 | [SciVedanta](https://github.com/SciVedanta/SciVedanta.github.io) | A collection of YouTube videos on Vedanta philosophy | [:books:](https://scivedanta.github.io/) | | |
 | [eesociety](https://github.com/eesociety/eesociety.github.io) | Encouraging Excellence Society | [:books:](https://eesociety.github.io/) | | |
 
