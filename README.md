@@ -2,7 +2,6 @@
 
 Kamal Choudhary is 
 - a staff scientist at National Institute of Standards and Technology (NIST), MD, USA.
-- the CEO and founder of a small business DeepMaterials LLC (https://www.deepmaterials.org/)
 - affiliate professor at the George Mason University
 - adjunct professor at the [Johns Hopkins University](https://ep.jhu.edu/faculty/kamal-choudhary/)
 - associate editor of the Journal Nature:NPJ Computational Materials (https://www.nature.com/npjcompumats/editors) and editorial board member of Nature:Scientific Data.
