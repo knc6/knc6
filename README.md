@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 Kamal Choudhary is 
-- an assistant professor at the Johns Hopkins University
-- a research-associate at National Institute of Standards and Technology (NIST), MD, USA.
+- an assistant professor at the Johns Hopkins University (https://engineering.jhu.edu/materials/faculty/kamal-choudhary/)
+- a research-associate at National Institute of Standards and Technology (NIST), MD, USA (https://www.nist.gov/people/kamal-choudhary)
 - affiliate professor at the George Mason University
 - associate editor of the Journal Nature:NPJ Computational Materials (https://www.nature.com/npjcompumats/editors) and editorial board member of Nature:Scientific Data.
 - editorial board member of Materials Today Communications, PRX Energy journals
